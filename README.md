@@ -1,1 +1,1 @@
-# mySql-miniProject
+# project-mysql1
